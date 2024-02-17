@@ -1,15 +1,17 @@
 import schedule
 import telebot
+import random
 from threading import Thread
 from time import sleep
-import random
+
 
 
 photo = ("https://media.tenor.com/1Q_XcfZPDWsAAAAM/hump-day-funny.gif",
          "https://media.tenor.com/cUl2dOugXyMAAAAM/gm-coffee-time.gif",
          "https://media.tenor.com/aiZfUput5fsAAAAM/gutmornink-gudmorning.gif",
          "https://media.tenor.com/VNFjSuOEw4AAAAAM/good-morning-goodmorning.gif",
-         "https://media.tenor.com/ICKb7sG6EOkAAAAM/great-day-have-a-great-day.gif")
+         "https://media.tenor.com/ICKb7sG6EOkAAAAM/great-day-have-a-great-day.gif"
+         )
 
 TOKEN = "TOKEN"
 
