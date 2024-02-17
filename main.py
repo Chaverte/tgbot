@@ -4,8 +4,6 @@ import random
 from threading import Thread
 from time import sleep
 
-
-
 photo = ("https://media.tenor.com/1Q_XcfZPDWsAAAAM/hump-day-funny.gif",
          "https://media.tenor.com/cUl2dOugXyMAAAAM/gm-coffee-time.gif",
          "https://media.tenor.com/aiZfUput5fsAAAAM/gutmornink-gudmorning.gif",
